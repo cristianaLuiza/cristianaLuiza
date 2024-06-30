@@ -18,5 +18,5 @@
   </a> 
   <div> 
   
-  ![Snake animation](https://github.com/rafaballerini/cristianaLuiza/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cristianaLuiza/blob/output/github-contribution-grid-snake.svg)
 
