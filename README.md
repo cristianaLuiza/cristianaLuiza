@@ -18,5 +18,4 @@
   </a> 
   <div> 
   
-  ![Snake animation](https://github.com/cristianaLuiza/cristianaLuiza/blob/output/github-contribution-grid-snake.svg)
 
