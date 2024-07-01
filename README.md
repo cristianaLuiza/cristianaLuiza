@@ -1,4 +1,5 @@
 ## Olá, eu sou a Cristiana Luiza🖤
+- 😊 Apaixonada por desenvolvimento
 - 🌱 Aprendendo Java 
 - 📫 E-mail- cristiana.luiza@outlook.com
  <div>
