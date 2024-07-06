@@ -1,11 +1,13 @@
-## Olá, eu sou a Cristiana Luiza🖤
+## Oii, sou a Cristiana Luiza🖤
 - 😊 Apaixonada por desenvolvimento
-- 🌱 Aprendendo Java 
+- 🌱 Me aprofundando em JAVA
 - 📫 E-mail- cristiana.luiza@outlook.com
+  <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<h1>
  <div>
   <a href="https://github.com/cristianaLuiza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianaLuiza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianaLuiza&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianaLuiza&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
