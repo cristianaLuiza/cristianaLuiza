@@ -1,4 +1,4 @@
-## Oii, sou a Cristiana Luiza🖤
+![image](CapaGit.png)
 - 😊 Apaixonada por desenvolvimento
 - 🌱 Me aprofundando em JAVA
 - 📫 E-mail- cristiana.luiza@outlook.com
